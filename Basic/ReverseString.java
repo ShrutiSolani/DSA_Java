@@ -4,7 +4,7 @@ import java.util.*;
 import java.io.*;
 import java.lang.*;
 
-class Driver
+class ReverseString
 {
     public static void main(String args[])throws IOException
     {
