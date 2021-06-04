@@ -8,3 +8,5 @@
 5. Move all negative elements to one side of the array
 6. Union of two sorted arrays
 7. Rotate array by one clockwise
+8. Kadane's Algorithm
+9. Minimum Number of Jumps
