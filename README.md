@@ -9,3 +9,4 @@
 7. Rotate array by one clockwise
 8. Kadane's Algorithm
 9. Minimum Number of Jumps
+10. Find the Duplicate Number
