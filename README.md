@@ -10,3 +10,8 @@
 8. Kadane's Algorithm
 9. Minimum Number of Jumps
 10. Find the Duplicate Number
+11. Merge Intervals
+
+
+## String
+1. Reverse A String
