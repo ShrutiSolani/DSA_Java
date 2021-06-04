@@ -1,6 +1,5 @@
-# Competitive_Programming
-
-## Basic
+# Data Structures and Algorithms
+## Array
 1. Reverse A String 
 2. Maximum and minimum of an array using minimum number of comparisons
 3. Kth min element of array
