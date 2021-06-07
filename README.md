@@ -11,7 +11,14 @@
 9. Minimum Number of Jumps
 10. Find the Duplicate Number
 11. Merge Intervals
+12. Find Median
+13. Median of two sorted arrays of different size
 
 
 ## String
 1. Reverse A String
+2. Palindrome
+3. Find Duplicate characters in a string
+4. Check whether one string is a rotation of another
+5. Check if a string is a valid shuffle of two distinct strings
+6. Count and Say problem
