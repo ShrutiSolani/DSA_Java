@@ -13,6 +13,15 @@
 11. Merge Intervals
 12. Find Median
 13. Median of two sorted arrays of different size
+14. Merge Intervals
+15. Next Permutation
+16. Count Inversion
+17. Best time to buy and sell stock
+
+
+## Matrix
+1. Spiral Traversal of a Matrix
+2. Search an element in a 2D Matrix
 
 
 ## String
@@ -22,3 +31,13 @@
 4. Check whether one string is a rotation of another
 5. Check if a string is a valid shuffle of two distinct strings
 6. Count and Say problem
+
+
+## Linked List
+1. Reverse a linked list (Iterative approach)
+2. Reverse a Linked List in groups of given size
+
+
+## Bit Manipulation
+1. Number of 1 bits
+2. Non Repeating Numbers
