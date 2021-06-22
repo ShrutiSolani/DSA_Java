@@ -34,10 +34,16 @@
 
 
 ## Linked List
-1. Reverse a linked list (Iterative approach)
+1. Reverse a linked List (Iterative approach)
 2. Reverse a Linked List in groups of given size
+3. Detect Loop in a Linked List
+4. Remove Loop in Linked List
 
+
+## Graphs
+1. Create a Graph and print it
 
 ## Bit Manipulation
 1. Number of 1 bits
 2. Non Repeating Numbers
+3. Count number of bits to be flipped to convert A to B
