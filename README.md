@@ -42,8 +42,14 @@
 
 ## Graphs
 1. Create a Graph and print it
+2. Breadth First Search Traversal
+3. Depth First Search Traversal
 
 ## Bit Manipulation
 1. Number of 1 bits
 2. Non Repeating Numbers
 3. Count number of bits to be flipped to convert A to B
+4. Count set bits from 1 to N
+5. Check if given number is power of 2
+6. Find position of set bit
+7. Calculate square of a number without using *, / and pow()
