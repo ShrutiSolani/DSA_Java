@@ -44,6 +44,10 @@
 1. Create a Graph and print it
 2. Breadth First Search Traversal
 3. Depth First Search Traversal
+4. Detect Cycle in a directed graph
+5. Detect Cycle in an undirected graph
+6. Clone a Graph
+
 
 ## Bit Manipulation
 1. Number of 1 bits
@@ -53,3 +57,4 @@
 5. Check if given number is power of 2
 6. Find position of set bit
 7. Calculate square of a number without using *, / and pow()
+8. Power Set
