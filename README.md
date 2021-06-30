@@ -1,4 +1,9 @@
 # Data Structures and Algorithms
+
+## General
+1. Reverse Integer
+
+
 ## Array
 1. Reverse A String 
 2. Maximum and minimum of an array using minimum number of comparisons
@@ -17,6 +22,7 @@
 15. Next Permutation
 16. Count Inversion
 17. Best time to buy and sell stock
+18. Two Sum 
 
 
 ## Matrix
@@ -58,3 +64,5 @@
 6. Find position of set bit
 7. Calculate square of a number without using *, / and pow()
 8. Power Set
+9. Copy Set Bits In a Range
+10. Divide two integers without using multiplication, division and mod operator
