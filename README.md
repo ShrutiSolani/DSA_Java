@@ -2,7 +2,8 @@
 
 ## General
 1. Reverse Integer
-
+2. Check if a number is palindrome
+3. Convert Roman number to Int
 
 ## Array
 1. Reverse A String 
@@ -28,6 +29,9 @@
 ## Matrix
 1. Spiral Traversal of a Matrix
 2. Search an element in a 2D Matrix
+3. Find Median in a row-wise sorted matrix
+4. Row with max 1s
+5. Sort matrix
 
 
 ## String
@@ -44,6 +48,7 @@
 2. Reverse a Linked List in groups of given size
 3. Detect Loop in a Linked List
 4. Remove Loop in Linked List
+5. Find first node of loop in Linked List
 
 
 ## Graphs

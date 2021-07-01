@@ -9,14 +9,10 @@ class ReverseInteger{
             reverse = reverse*10+last_digit;
             x=x/10;
         }
-        // System.out.println(reverse);
-        
-        
         if(reverse > Integer.MAX_VALUE || reverse < Integer.MIN_VALUE) {
         return 0;
         }
         else
-            // System.out.println((int)reverse);
             return (int)reverse;  
     }  
 }
