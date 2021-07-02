@@ -24,6 +24,7 @@
 16. Count Inversion
 17. Best time to buy and sell stock
 18. Two Sum 
+19. Chocolate Distribution
 
 
 ## Matrix
@@ -32,6 +33,8 @@
 3. Find Median in a row-wise sorted matrix
 4. Row with max 1s
 5. Sort matrix
+6. Max Area of Rectangle in Histogram
+7. Max Area of Rectangle in Matrix
 
 
 ## String
