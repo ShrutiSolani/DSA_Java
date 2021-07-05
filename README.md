@@ -25,6 +25,7 @@
 17. Best time to buy and sell stock
 18. Two Sum 
 19. Chocolate Distribution
+20. Max Area of Rectangle in Histogram
 
 
 ## Matrix
@@ -33,8 +34,10 @@
 3. Find Median in a row-wise sorted matrix
 4. Row with max 1s
 5. Sort matrix
-6. Max Area of Rectangle in Histogram
-7. Max Area of Rectangle in Matrix
+6. Max Area of Rectangle in Matrix
+7. Find a specific pair in Matrix
+8. Rotate matrix by 90 degrees Anti-clockwise
+9. Rotate matrix by 90 degrees Clockwise
 
 
 ## String
@@ -44,6 +47,7 @@
 4. Check whether one string is a rotation of another
 5. Check if a string is a valid shuffle of two distinct strings
 6. Count and Say problem
+7. Balanced Paranthesis
 
 
 ## Linked List
