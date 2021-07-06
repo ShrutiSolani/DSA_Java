@@ -1,3 +1,6 @@
+//Initial Template for Java
+
+import java.io.*;
 import java.util.*;
 class LongestPalindrome
 {
@@ -20,64 +23,42 @@ class LongestPalindrome
 //User function Template for Java
 
 class Solution{
-        static int isPlaindrome(String S1, int start, int end) {
-        // code here
-        String S2 = S1.substring(start, end+1);
-        char[] S = S2.toCharArray();
-        int n = S.length;
-        if(n % 2 == 0){
-            for(int i = 0;i <= n/2; i++){
-                if(S[i] != S[n - 1 - i]){
-                    return 0;
-                }
+    static Boolean isPalin(String s){
+        int n = s.length();
+        int j = n-1;
+        for(int i = 0; i < n/2;i++){
+            if(s.charAt(i) != s.charAt(j)){
+                return false;
             }
-            return 1;
+            j--;
         }
-        else{
-            int x = (int)n/2;
-            for(int i = 0;i <= x; i++){
-                if(S[i] != S[n-1-i]){
-                    return 0;
-                }
-            }
-            return 1;
-        }
+        return true;
     }
-    
     static String longestPalin(String S){
         // code here
-        int local_start = 0;
-        int local_end = 0;
+        int n = S.length();
+        int i,j;
         int max_len = 0;
-        int local_len = 0;
-        for(int i = 0; i < S.length(); i++){
-            for(int j = i; j < S.length(); j++){
-                if(j == i){
-                    local_len = 1;
-                    if(local_len > max_len){
-                        max_len = local_len;
-                        local_start = i;
-                        local_end = j;
+        String a = "";
+        Boolean flag=false;
+        for(i = 0;i < n;i++){
+            for(j = i+1;j < n;j++){
+                Boolean x = isPalin(S.substring(i,j+1));
+                if(x == true){
+                    // System.out.println("i - "+i);
+                    // System.out.println("j - "+j);
+                    if((j-i) > max_len){
+                        max_len = (j-i);
+                        a = S.substring(i,j+1);
                     }
-                }
-                else{
-                    // System.out.println(i+" "+j);
-                    int x = isPlaindrome(S, i, j);
-                    if(x == 1){
-                        // System.out.println("x=1 - "+i+" "+j);
-                        local_len = j - i + 1;
-                        // System.out.println("local - "+ local_len);
-                        if(local_len > max_len){
-                            max_len = local_len;
-                            // System.out.println("max - "+max_len);
-                            local_start = i;
-                            local_end = j;
-                    }
+                    // System.out.println(a);
                 }
             }
+           
         }
-        
+        if(a == ""){
+            a = S.substring(0,1);
+        }
+        return a;
     }
-    return S.substring(local_start, local_end+1);
-    } 
 }

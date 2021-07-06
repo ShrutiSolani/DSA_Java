@@ -38,6 +38,8 @@
 7. Find a specific pair in Matrix
 8. Rotate matrix by 90 degrees Anti-clockwise
 9. Rotate matrix by 90 degrees Clockwise
+10. Kth smallest element in a sorted matrix
+11. Common Elements in all rows
 
 
 ## String
@@ -48,6 +50,8 @@
 5. Check if a string is a valid shuffle of two distinct strings
 6. Count and Say problem
 7. Balanced Paranthesis
+8. Longest Palindrome In A String
+9. Find Length of Last Word
 
 
 ## Linked List
