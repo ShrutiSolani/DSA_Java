@@ -26,6 +26,9 @@
 18. Two Sum 
 19. Chocolate Distribution
 20. Max Area of Rectangle in Histogram
+21. Merge two sorted arrays without using extra space
+22. Count Pairs with given sum
+23. Remove Duplicates from sorted array
 
 
 ## Matrix
