@@ -29,6 +29,7 @@
 21. Merge two sorted arrays without using extra space
 22. Count Pairs with given sum
 23. Remove Duplicates from sorted array
+24. Factorial of Big Numbers
 
 
 ## Matrix
@@ -55,6 +56,7 @@
 7. Balanced Paranthesis
 8. Longest Palindrome In A String
 9. Find Length of Last Word
+10. Isomorphic Strings
 
 
 ## Linked List
