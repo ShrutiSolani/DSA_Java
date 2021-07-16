@@ -3,7 +3,7 @@
 ## General
 1. Reverse Integer
 2. Check if a number is palindrome
-3. Convert Roman number to Int
+
 
 ## Array
 1. Reverse A String 
@@ -30,6 +30,7 @@
 22. Count Pairs with given sum
 23. Remove Duplicates from sorted array
 24. Factorial of Big Numbers
+25. Find Common Elements in 3 sorted arrays 
 
 
 ## Matrix
@@ -57,6 +58,10 @@
 8. Longest Palindrome In A String
 9. Find Length of Last Word
 10. Isomorphic Strings
+11. Converting Roman Numerals to Decimal
+12. Longest Common Prefix
+13. Longest Repeating Subsequence
+14. All Permutations of a given string
 
 
 ## Linked List
