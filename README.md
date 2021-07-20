@@ -62,6 +62,8 @@
 12. Longest Common Prefix
 13. Longest Repeating Subsequence
 14. All Permutations of a given string
+15. Print All subsequences of a given string
+16. Split the binary string into substrings with equal number of 0s and 1s
 
 
 ## Linked List
@@ -70,7 +72,8 @@
 3. Detect Loop in a Linked List
 4. Remove Loop in Linked List
 5. Find first node of loop in Linked List
-
+6. Remove duplicate element from sorted Linked List
+7. Remove duplicates from an unsorted linked list 
 
 ## Graphs
 1. Create a Graph and print it
@@ -79,6 +82,7 @@
 4. Detect Cycle in a directed graph
 5. Detect Cycle in an undirected graph
 6. Clone a Graph
+7. Rat in a Maze Problem (Backtracking)
 
 
 ## Bit Manipulation
