@@ -30,7 +30,9 @@
 22. Count Pairs with given sum
 23. Remove Duplicates from sorted array
 24. Factorial of Big Numbers
-25. Find Common Elements in 3 sorted arrays 
+25. Find Common Elements in 3 sorted arrays
+26. Subarray with 0 sum 
+27. ALternate Positive and Negative Numbers
 
 
 ## Matrix
@@ -74,6 +76,7 @@
 5. Find first node of loop in Linked List
 6. Remove duplicate element from sorted Linked List
 7. Remove duplicates from an unsorted linked list 
+8. Move last element to front of a given Linked List
 
 ## Graphs
 1. Create a Graph and print it
