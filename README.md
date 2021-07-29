@@ -33,6 +33,8 @@
 25. Find Common Elements in 3 sorted arrays
 26. Subarray with 0 sum 
 27. ALternate Positive and Negative Numbers
+28. Smallest SUbarray with sum greater than given value
+29. Three way partitioning
 
 
 ## Matrix
