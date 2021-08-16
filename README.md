@@ -35,7 +35,7 @@
 27. ALternate Positive and Negative Numbers
 28. Smallest SUbarray with sum greater than given value
 29. Three way partitioning
-
+30. Remove Element
 
 ## Matrix
 1. Spiral Traversal of a Matrix
@@ -80,6 +80,7 @@
 6. Remove duplicate element from sorted Linked List
 7. Remove duplicates from an unsorted linked list 
 8. Move last element to front of a given Linked List
+9. Merge two sorted Linked List
 
 ## Graphs
 1. Create a Graph and print it
