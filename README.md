@@ -81,6 +81,8 @@
 7. Remove duplicates from an unsorted linked list 
 8. Move last element to front of a given Linked List
 9. Merge two sorted Linked List
+10. Add Two Numbers
+
 
 ## Graphs
 1. Create a Graph and print it
