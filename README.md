@@ -3,6 +3,7 @@
 ## General
 1. Reverse Integer
 2. Check if a number is palindrome
+3. Guess Number Higher or Lower
 
 
 ## Array
