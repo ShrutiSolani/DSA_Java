@@ -36,6 +36,7 @@
 28. Smallest SUbarray with sum greater than given value
 29. Three way partitioning
 30. Remove Element
+31. Median of Two Sorted Arrays
 
 ## Matrix
 1. Spiral Traversal of a Matrix
