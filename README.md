@@ -73,6 +73,7 @@
 17. Converting Integer to Roman Numbers
 18. Longest Substring Without Repeating Characters
 19. Longest Palindromic Substring (Dynamic Approach)
+20. ZigZag Conversion
 
 
 ## Linked List
