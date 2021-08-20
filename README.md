@@ -38,6 +38,7 @@
 29. Three way partitioning
 30. Remove Element
 31. Median of Two Sorted Arrays
+32. Container with Most Water
 
 ## Matrix
 1. Spiral Traversal of a Matrix
