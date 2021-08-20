@@ -74,6 +74,7 @@
 18. Longest Substring Without Repeating Characters
 19. Longest Palindromic Substring (Dynamic Approach)
 20. ZigZag Conversion
+21. String to Integer (atoi)
 
 
 ## Linked List
