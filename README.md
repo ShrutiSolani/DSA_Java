@@ -4,6 +4,7 @@
 1. Reverse Integer
 2. Check if a number is palindrome
 3. Guess Number Higher or Lower
+4. Minimum Time to Type Word Using Special Typewriter (Leetcode Biweekly 59)
 
 
 ## Array
