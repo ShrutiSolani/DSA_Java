@@ -79,6 +79,7 @@
 19. Longest Palindromic Substring (Dynamic Approach)
 20. ZigZag Conversion
 21. String to Integer (atoi)
+22. Complex Number Multiplication
 
 
 ## Linked List
