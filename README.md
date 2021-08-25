@@ -80,6 +80,7 @@
 20. ZigZag Conversion
 21. String to Integer (atoi)
 22. Complex Number Multiplication
+23. String Multiplication
 
 
 ## Linked List
