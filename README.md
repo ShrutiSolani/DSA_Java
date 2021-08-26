@@ -7,6 +7,7 @@
 4. Minimum Time to Type Word Using Special Typewriter (Leetcode Biweekly contest 59)
 5. Maximum Matrix Sum (Leetcode Biweekly contest 59)
 6. Sum of Square Numbers (Binary Search)
+7. Majority Element (Boyer-Moore majority vote algorithm)
 
 
 ## Array
