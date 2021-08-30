@@ -121,3 +121,6 @@
 8. Power Set
 9. Copy Set Bits In a Range
 10. Divide two integers without using multiplication, division and mod operator
+
+## Binary Search
+1. Binary Search
