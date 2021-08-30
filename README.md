@@ -124,3 +124,5 @@
 
 ## Binary Search
 1. Binary Search
+2. First Bad Version
+3. Search Insert Position (Array Problem 33)
