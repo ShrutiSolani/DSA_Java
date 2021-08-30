@@ -1,16 +1,19 @@
 class Solution {
-    public int[] smallerNumbersThanCurrent(int[] nums) {
-        int[] temp = nums.clone();
-        Arrays.sort(temp);
-        HashMap<Integer, Integer> rank = new HashMap<Integer, Integer>();
-        for(int i = 0;i < temp.length; i++){
-            if(!rank.containsKey(temp[i])){
-                rank.put(temp[i], i);
+    public int search(int[] nums, int target) {
+        int low = 0, high = nums.length - 1;
+        int mid = low + (high - low)/2;
+        while(low <= high){
+            mid = low + (high - low)/2;
+            if(nums[mid] == target){
+                return mid;
+            }
+            else if(nums[mid] < target){
+                low = mid + 1;
+            }
+            else{
+                high = mid - 1;
             }
         }
-        for(int i=0;i < nums.length; i++){
-            nums[i] = rank.get(nums[i]);
-        }
-        return nums;
+        return -1;
     }
 }
