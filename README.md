@@ -83,6 +83,7 @@
 21. String to Integer (atoi)
 22. Complex Number Multiplication
 23. String Multiplication
+24. Jewels and Stones
 
 
 ## Linked List
