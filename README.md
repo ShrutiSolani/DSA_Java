@@ -44,6 +44,7 @@
 31. Median of Two Sorted Arrays
 32. Container with Most Water
 33. Search Insert Position (Binary Search)
+34. How Many Numers Are Smaller Than The Current Number 
 
 ## Matrix
 1. Spiral Traversal of a Matrix
