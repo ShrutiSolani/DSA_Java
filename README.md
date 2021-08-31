@@ -45,6 +45,7 @@
 32. Container with Most Water
 33. Search Insert Position (Binary Search)
 34. How Many Numers Are Smaller Than The Current Number 
+35. Range Addition II
 
 ## Matrix
 1. Spiral Traversal of a Matrix
@@ -126,3 +127,7 @@
 1. Binary Search
 2. First Bad Version
 3. Search Insert Position (Array Problem 33)
+
+## Squares of a Sorted Array
+1. Squares of a Sorted Array
+2. Rotate Array
