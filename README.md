@@ -127,6 +127,7 @@
 1. Binary Search
 2. First Bad Version
 3. Search Insert Position (Array Problem 33)
+4. Find Minimum in Rotated Sorted Array
 
 ## Squares of a Sorted Array
 1. Squares of a Sorted Array
