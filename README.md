@@ -132,3 +132,7 @@
 ## Squares of a Sorted Array
 1. Squares of a Sorted Array
 2. Rotate Array
+
+## Move Zeroes
+1. Move Zeroes
+2. Two Sum -II (Input Array Sorted)
