@@ -136,3 +136,7 @@
 ## Move Zeroes
 1. Move Zeroes
 2. Two Sum -II (Input Array Sorted)
+
+## Kadane's Algorithm
+1. Max Subarray Sum
+2. Flip Bits
