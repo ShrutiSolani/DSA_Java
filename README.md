@@ -100,6 +100,7 @@
 9. Merge two sorted Linked List
 10. Add Two Numbers
 11. Middle of the Linked List
+12. Remove Nth Node From End of List
 
 
 ## Graphs
