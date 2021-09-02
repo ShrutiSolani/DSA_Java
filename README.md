@@ -99,6 +99,7 @@
 8. Move last element to front of a given Linked List
 9. Merge two sorted Linked List
 10. Add Two Numbers
+11. Middle of the Linked List
 
 
 ## Graphs
@@ -140,5 +141,7 @@
 ## Kadane's Algorithm
 1. Max Subarray Sum
 2. Flip Bits
+
+
 
 
