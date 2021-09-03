@@ -8,6 +8,7 @@
 5. Maximum Matrix Sum (Leetcode Biweekly contest 59)
 6. Sum of Square Numbers (Binary Search)
 7. Majority Element (Boyer-Moore majority vote algorithm)
+8. Rotation Groups
 
 
 ## Array
