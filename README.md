@@ -9,6 +9,7 @@
 6. Sum of Square Numbers (Binary Search)
 7. Majority Element (Boyer-Moore majority vote algorithm)
 8. Rotation Groups
+9. Robinhood
 
 
 ## Array
