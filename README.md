@@ -89,6 +89,7 @@
 23. String Multiplication
 24. Jewels and Stones
 25. Run-Length Decoded String Iterator (***)
+26. Permutation In String (Sliding Window approach)
 
 
 ## Linked List
@@ -146,6 +147,8 @@
 1. Max Subarray Sum
 2. Flip Bits
 
+## Circular Queue
+1. Circular Queue
 
 
 
