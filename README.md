@@ -49,6 +49,7 @@
 34. How Many Numers Are Smaller Than The Current Number 
 35. Range Addition II
 36. Contains Duplicate
+37. Unidirectional Word Search
 
 ## Matrix
 1. Spiral Traversal of a Matrix
