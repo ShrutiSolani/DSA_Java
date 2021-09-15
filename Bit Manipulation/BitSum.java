@@ -1,3 +1,23 @@
+// You are given a list of integers nums and an integer k. You must perform this operation k times:
+
+// Choose any number on the list. In the binary representation of the number, choose a bit that is 0 and make it 1.
+
+// Return the minimum possible sum of all the numbers (mod 10 ** 9 + 7) after performing k operations.
+
+// Example 1
+// Input
+
+// nums = [2, 5, 2, 0, 5, 8, 8]
+
+// Output
+
+// 8
+
+// Explanation
+
+// nums[2] can catch 3 rain drops, and nums[3] can catch 5 for a total of 8.
+
+
 import java.util.*;
 
 class Solution {
