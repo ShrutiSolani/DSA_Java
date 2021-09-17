@@ -163,5 +163,9 @@
 4. Special Keyboard
 5. Josephus problem
 
+## Tree
+1. Left View of Binary Tree
+2. Check if BST
+
 
 
