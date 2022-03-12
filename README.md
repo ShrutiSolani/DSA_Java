@@ -149,6 +149,8 @@
 ## Kadane's Algorithm
 1. Max Subarray Sum
 2. Flip Bits
+3. Maximum subarray sum after K concatenation
+4. Maximum Sum Rectangle
 
 ## Circular Queue
 1. Circular Queue
