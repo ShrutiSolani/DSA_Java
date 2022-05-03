@@ -1,0 +1,64 @@
+class Solution {
+    public static void reset(int[] count){
+        for(int i = 0;i < count.length;i++){
+            count[i] = 0;
+        }
+    }
+    
+    public boolean isValidSudoku(char[][] board) {
+        int[] count = new int[10];
+        reset(count);
+        for(int i = 0;i < 9;i++){
+            for(int j = 0;j < 9;j++){
+                if(board[i][j] != '.'){
+                    int index = board[i][j] - '0';
+                    if(count[index] > 0){
+                        return false;
+                    }
+                    else{
+                        count[index]++;
+                    }
+                }
+            }
+            reset(count);
+        }
+        
+        reset(count);
+        for(int i = 0;i < 9;i++){
+            for(int j = 0;j < 9;j++){
+                if(board[j][i] != '.'){
+                    int index = board[j][i] - '0';
+                    if(count[index] > 0){
+                        return false;
+                    }
+                    else{
+                        count[index]++;
+                    }
+                }
+            }
+            reset(count);
+        }
+        
+        reset(count);
+        for(int i = 0;i < 9;i+=3){
+            for(int j = 0;j < 9;j+=3){
+                for(int k = i;k < i+3;k++){
+                    for(int l = j;l < j+3;l++){
+                        if(board[k][l] != '.'){
+                            int index = board[k][l] - '0';
+                            if(count[index] > 0){
+                                return false;
+                            }
+                            else{
+                                count[index]++;
+                            }
+                        }
+                    }
+                }
+                reset(count);
+            }
+        }
+        
+        return true;
+    }
+}
