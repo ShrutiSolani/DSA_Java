@@ -1,0 +1,25 @@
+class Solution {
+    public int[] intersect(int[] nums1, int[] nums2) {
+        int[] frequency = new int[1001];
+        
+        for(int n : nums1){
+            frequency[n]++;
+        }
+        
+        int k = 0;
+        for(int n : nums2){
+            if(frequency[n] > 0){
+                frequency[n]--;
+                nums1[k] = n;
+                k++;
+            }
+        }
+        
+        int[] intersect_array = new int[k];
+        for(int i = 0;i < k;i++){
+            intersect_array[i] = nums1[i];
+        }
+        
+        return intersect_array;
+    }
+}
