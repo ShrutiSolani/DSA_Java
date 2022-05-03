@@ -1,0 +1,30 @@
+class Solution {
+    public static int[] reverse(int[] row){
+        int j = row.length - 1;
+        for(int i = 0;i < row.length/2;i++){
+            int temp = row[i];
+            row[i] = row[j];
+            row[j--] = temp;
+        }
+        return row;
+    }
+    
+    public void rotate(int[][] matrix) {
+        // transpose and reverse
+        
+        for(int i = 0;i < matrix.length;i++){
+            for(int j = 0;j < matrix.length;j++){
+                if(i < j){
+                    int temp = matrix[i][j];
+                    matrix[i][j] = matrix[j][i];
+                    matrix[j][i] = temp;
+                }
+            }
+        }
+        
+        for(int i = 0;i < matrix.length;i++){
+            matrix[i] = reverse(matrix[i]);
+        }
+        
+    }
+}
