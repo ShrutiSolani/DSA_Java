@@ -1,0 +1,28 @@
+class Solution {
+    public int[] plusOne(int[] digits) {
+        int size = digits.length;
+        int old_carry = 1;
+        int new_carry = 0;
+        for(int i = size-1;i >= 0;i--){
+            new_carry = (digits[i]+old_carry)/10;
+            digits[i] = (digits[i]+old_carry)%10;
+            if(new_carry == 0){
+                break;
+            }
+            else{
+                old_carry = new_carry;
+            }
+        }
+        if(new_carry > 0){
+            int[] result = new int[size+1];
+            result[0] = new_carry;
+            int k = 1;
+            for(int d : digits){
+                result[k++] = d;
+            }
+            return result;
+        }
+        return digits;
+        
+    }
+}
