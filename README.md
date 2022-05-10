@@ -183,3 +183,13 @@
   9. Two Sum
   10. Valid Sudoku
   11. Rotate Image
+
+  ## Strings
+  1. Reverse String
+  2. Reverse Integer
+  3. First Unique Character in a String
+  4. Valid Anagram
+  5. Valid Palindrome
+  6. String to Integer (atoi)
+  7. Implement strStr()
+  8. Longest Common Prefix
