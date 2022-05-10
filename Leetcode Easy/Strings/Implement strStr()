@@ -1,0 +1,34 @@
+class Solution {
+    public int strStr(String haystack, String needle) {
+        // return haystack.indexOf(needle);
+        
+        if(needle.length() == 0){
+            return 0;
+        }
+        
+        if(haystack.length() == 0){
+            return -1;
+        }
+        
+        if(needle.length() > haystack.length()){
+            return -1;
+        }
+        
+        int j = 0;
+        for(int i = 0;i < haystack.length();i++){
+            int k = i;
+            while(j < needle.length() && k < haystack.length() && haystack.charAt(k) == needle.charAt(j)){
+                k++;
+                j++;
+            }
+            
+            if(j == needle.length()){
+                return k-j;
+            }
+            else{
+                j = 0;
+            }
+        }
+        return -1;
+    }
+}
