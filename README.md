@@ -152,6 +152,10 @@
 3. Maximum subarray sum after K concatenation
 4. Maximum Sum Rectangle
 
+## Dutch National Flag Algorithm
+1. Sort 0 1 2
+2. Quicksort using the Dutch national flag algorithm
+
 ## Circular Queue
 1. Circular Queue
 
