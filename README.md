@@ -156,6 +156,13 @@
 1. Sort 0 1 2
 2. Quicksort using the Dutch national flag algorithm
 
+## Searching and Sorting
+1. Search In Rotated Sorted Array
+2. Form a Triangle
+3. First and Last Position of an element in Sorted Array
+4. Count Smaller or Equal elements in array
+5. Algorithm to find best insert position in sorted array
+
 ## Circular Queue
 1. Circular Queue
 
