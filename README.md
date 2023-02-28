@@ -1,5 +1,5 @@
-# 100-Day Coding Sprint (Unstop)
-1. Day 1
+# [100-Day Coding Sprint (Unstop)](https://unstop.com/coding/100-day-of-coding-sprint-339)
+1. [Day 1](https://github.com/ShrutiSolani/DSA_Java/tree/main/100-Day%20Coding%20Sprint/Day1)
 
 # Data Structures and Algorithms
 
